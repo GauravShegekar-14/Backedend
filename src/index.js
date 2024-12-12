@@ -5,7 +5,7 @@ import  connectCloudinary  from "./utils/cloudinaryfun.js"
 
 
 dotenv.config({
-    path:'./.env'
+    path:'../.env'
 })
 
 connectDB()
